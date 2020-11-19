@@ -1,7 +1,7 @@
 name:                lambdacube-gl
-version:             0.5.3.0
-synopsis:            OpenGL 3.3 Core Profile backend for LambdaCube 3D
-description:         OpenGL 3.3 Core Profile backend for LambdaCube 3D
+version:             0.5.4.0
+synopsis:            OpenGL 4.3 Core Profile backend for LambdaCube 3D
+description:         OpenGL 4.3 Core Profile backend for LambdaCube 3D
 homepage:            http://lambdacube3d.com
 license:             BSD3
 license-file:        LICENSE
